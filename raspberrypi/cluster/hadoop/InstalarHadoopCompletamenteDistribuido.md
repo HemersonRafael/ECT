@@ -1453,3 +1453,5 @@ https://www.tutorialspoint.com/hadoop/
 http://hadoop.praveendeshmane.co.in/hadoop/hadoop-2-6-4-fully-distributed-mode-installation-on-ubuntu-14-04.jsp
 
 https://github.com/google/protobuf
+
+https://dev.to/awwsmm/building-a-raspberry-pi-hadoop-spark-cluster-8b2
